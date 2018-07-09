@@ -79,7 +79,7 @@ int main()
     system("cls");
     for(i=0;i<=20;i++)
         puts(a[i]);
-    printf("now: x=%d y=%d\n",x,y);
+    //printf("now: x=%d y=%d\n",x,y);
     }
     system("cls");
     system("shutdown -a");
