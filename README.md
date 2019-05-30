@@ -1,1 +1,1 @@
-## Welcome to visit yuzhechuan's maze game！
+## Welcome yuzhechuan's maze game！
